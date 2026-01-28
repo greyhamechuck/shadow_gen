@@ -1,0 +1,7 @@
+opencv-python
+numpy
+torch
+rembg
+transformers
+Pillow
+PyQt6
